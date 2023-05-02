@@ -1,0 +1,12 @@
+D:\Transflo\Transflo\Transflo.Domain\bin\Debug\net5.0\Transflo.Domain.deps.json
+D:\Transflo\Transflo\Transflo.Domain\bin\Debug\net5.0\Transflo.Domain.dll
+D:\Transflo\Transflo\Transflo.Domain\bin\Debug\net5.0\ref\Transflo.Domain.dll
+D:\Transflo\Transflo\Transflo.Domain\bin\Debug\net5.0\Transflo.Domain.pdb
+D:\Transflo\Transflo\Transflo.Domain\obj\Debug\net5.0\Transflo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Transflo\Transflo\Transflo.Domain\obj\Debug\net5.0\Transflo.Domain.AssemblyInfoInputs.cache
+D:\Transflo\Transflo\Transflo.Domain\obj\Debug\net5.0\Transflo.Domain.AssemblyInfo.cs
+D:\Transflo\Transflo\Transflo.Domain\obj\Debug\net5.0\Transflo.Domain.csproj.CoreCompileInputs.cache
+D:\Transflo\Transflo\Transflo.Domain\obj\Debug\net5.0\Transflo.Domain.dll
+D:\Transflo\Transflo\Transflo.Domain\obj\Debug\net5.0\ref\Transflo.Domain.dll
+D:\Transflo\Transflo\Transflo.Domain\obj\Debug\net5.0\Transflo.Domain.pdb
+D:\Transflo\Transflo\Transflo.Domain\obj\Debug\net5.0\Transflo.Domain.csproj.AssemblyReference.cache

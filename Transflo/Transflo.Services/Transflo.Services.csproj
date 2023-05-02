@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Mapster" Version="7.3.0" />
+    <PackageReference Include="System.Linq.Dynamic.Core" Version="1.3.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Transflo.Persistence\Transflo.Persistence.csproj" />
+    <ProjectReference Include="..\Transflo.Services.Abstractions\Transflo.Services.Abstractions.csproj" />
+  </ItemGroup>
+
+</Project>

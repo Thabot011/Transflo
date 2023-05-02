@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Transflo.Services.Abstractions/1.0.0": {
+        "dependencies": {
+          "Transflo.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "Transflo.Services.Abstractions.dll": {}
+        }
+      },
+      "Transflo.Contracts/1.0.0": {
+        "runtime": {
+          "Transflo.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Transflo.Services.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Transflo.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

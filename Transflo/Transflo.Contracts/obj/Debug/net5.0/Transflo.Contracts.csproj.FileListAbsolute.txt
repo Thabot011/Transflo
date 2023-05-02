@@ -1,0 +1,12 @@
+D:\Transflo\Transflo\Transflo.Contracts\bin\Debug\net5.0\Transflo.Contracts.deps.json
+D:\Transflo\Transflo\Transflo.Contracts\bin\Debug\net5.0\Transflo.Contracts.dll
+D:\Transflo\Transflo\Transflo.Contracts\bin\Debug\net5.0\ref\Transflo.Contracts.dll
+D:\Transflo\Transflo\Transflo.Contracts\bin\Debug\net5.0\Transflo.Contracts.pdb
+D:\Transflo\Transflo\Transflo.Contracts\obj\Debug\net5.0\Transflo.Contracts.csproj.AssemblyReference.cache
+D:\Transflo\Transflo\Transflo.Contracts\obj\Debug\net5.0\Transflo.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Transflo\Transflo\Transflo.Contracts\obj\Debug\net5.0\Transflo.Contracts.AssemblyInfoInputs.cache
+D:\Transflo\Transflo\Transflo.Contracts\obj\Debug\net5.0\Transflo.Contracts.AssemblyInfo.cs
+D:\Transflo\Transflo\Transflo.Contracts\obj\Debug\net5.0\Transflo.Contracts.csproj.CoreCompileInputs.cache
+D:\Transflo\Transflo\Transflo.Contracts\obj\Debug\net5.0\Transflo.Contracts.dll
+D:\Transflo\Transflo\Transflo.Contracts\obj\Debug\net5.0\ref\Transflo.Contracts.dll
+D:\Transflo\Transflo\Transflo.Contracts\obj\Debug\net5.0\Transflo.Contracts.pdb

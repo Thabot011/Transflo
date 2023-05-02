@@ -1,0 +1,15 @@
+D:\Transflo\Transflo\Transflo.Services.Abstractions\bin\Debug\net5.0\Transflo.Services.Abstractions.deps.json
+D:\Transflo\Transflo\Transflo.Services.Abstractions\bin\Debug\net5.0\Transflo.Services.Abstractions.dll
+D:\Transflo\Transflo\Transflo.Services.Abstractions\bin\Debug\net5.0\ref\Transflo.Services.Abstractions.dll
+D:\Transflo\Transflo\Transflo.Services.Abstractions\bin\Debug\net5.0\Transflo.Services.Abstractions.pdb
+D:\Transflo\Transflo\Transflo.Services.Abstractions\bin\Debug\net5.0\Transflo.Contracts.dll
+D:\Transflo\Transflo\Transflo.Services.Abstractions\bin\Debug\net5.0\Transflo.Contracts.pdb
+D:\Transflo\Transflo\Transflo.Services.Abstractions\obj\Debug\net5.0\Transflo.Services.Abstractions.csproj.AssemblyReference.cache
+D:\Transflo\Transflo\Transflo.Services.Abstractions\obj\Debug\net5.0\Transflo.Services.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Transflo\Transflo\Transflo.Services.Abstractions\obj\Debug\net5.0\Transflo.Services.Abstractions.AssemblyInfoInputs.cache
+D:\Transflo\Transflo\Transflo.Services.Abstractions\obj\Debug\net5.0\Transflo.Services.Abstractions.AssemblyInfo.cs
+D:\Transflo\Transflo\Transflo.Services.Abstractions\obj\Debug\net5.0\Transflo.Services.Abstractions.csproj.CoreCompileInputs.cache
+D:\Transflo\Transflo\Transflo.Services.Abstractions\obj\Debug\net5.0\Transflo.Services.Abstractions.csproj.CopyComplete
+D:\Transflo\Transflo\Transflo.Services.Abstractions\obj\Debug\net5.0\Transflo.Services.Abstractions.dll
+D:\Transflo\Transflo\Transflo.Services.Abstractions\obj\Debug\net5.0\ref\Transflo.Services.Abstractions.dll
+D:\Transflo\Transflo\Transflo.Services.Abstractions\obj\Debug\net5.0\Transflo.Services.Abstractions.pdb
